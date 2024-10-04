@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'deface'
-
 require 'redmine_plugin_kit/version'
 require 'redmine_plugin_kit/debug'
 require 'redmine_plugin_kit/engine'
